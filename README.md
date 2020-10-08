@@ -18,7 +18,7 @@ Install this module into Magento 2 via composer:
 ###### Uninstall
     bin/magento module:uninstall --non-composer Accolade_OrderGrid
  
-## Screenshot 
+## Demo 
 ![](https://github.com/leandrofreire08/magento2-order-grid/blob/master/screenshots/demo.gif)
  
 ## Author
