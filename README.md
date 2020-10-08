@@ -11,12 +11,12 @@
 ###### Installation
 Install this module into Magento 2 via composer:
 
-    composer require iop/magento2_order-grid
+    composer require leandrofreire08/magento2-order-grid
     bin/magento module:enable Accolade_OrderGrid
     bin/magento setup:upgrade
 
 ###### Uninstall
-    bin/magento module:uninstall --non-composer Accolade_OrderGrid
+    bin/magento module:uninstall Accolade_OrderGrid
  
 ## Demo 
 ![](https://github.com/leandrofreire08/magento2-order-grid/blob/master/screenshots/demo.gif)
