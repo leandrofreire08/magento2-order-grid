@@ -1,4 +1,4 @@
-# Magento 2 Module Accolade_OrderGrid
+# Magento 2 Module Freire_OrderGrid
 
 ## Functionalities
 * Order Grid  UI component customization [added coupon_code, discount_amount columns] 
@@ -12,11 +12,11 @@
 Install this module into Magento 2 via composer:
 
     composer require leandrofreire08/magento2-order-grid
-    bin/magento module:enable Accolade_OrderGrid
+    bin/magento module:enable Freire_OrderGrid
     bin/magento setup:upgrade
 
 ###### Uninstall
-    bin/magento module:uninstall Accolade_OrderGrid
+    bin/magento module:uninstall Freire_OrderGrid
  
 ## Demo 
 ![](https://github.com/leandrofreire08/magento2-order-grid/blob/master/screenshots/demo.gif)

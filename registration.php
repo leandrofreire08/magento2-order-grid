@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Accolade_OrderGrid',
+    'Freire_OrderGrid',
     __DIR__
 );

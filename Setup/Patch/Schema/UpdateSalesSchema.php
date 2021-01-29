@@ -1,6 +1,6 @@
 <?php
 
-namespace Accolade\OrderGrid\Setup\Patch\Schema;
+namespace Freire\OrderGrid\Setup\Patch\Schema;
 
 use Magento\Framework\DB\Ddl\Table;
 use Magento\Framework\Setup\ModuleDataSetupInterface;

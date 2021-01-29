@@ -1,6 +1,6 @@
 <?php
 
-namespace Accolade\OrderGrid\Setup\Patch\Data;
+namespace Freire\OrderGrid\Setup\Patch\Data;
 
 use Magento\Framework\App\State;
 use Magento\Framework\Setup\Patch\DataPatchInterface;

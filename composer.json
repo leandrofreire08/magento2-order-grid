@@ -1,5 +1,5 @@
 {
-    "name": "accolade/order-grid",
+    "name": "freire/order-grid",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": "OSL-3.0",
@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Accolade\\OrderGrid\\": ""
+            "Freire\\OrderGrid\\": ""
         }
     },
     "repositories": [
